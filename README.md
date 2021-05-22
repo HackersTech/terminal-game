@@ -22,3 +22,7 @@ for termux requirements
 >pip install pyfiglet 
 
 >bash festival.sh
+
+
+
+Follow us on 
