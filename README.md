@@ -27,7 +27,12 @@ This is a fancy text design game made with python3
 
 >bash festival.sh
 
-
+---
+```
+If you want to uninstall the game type 
+rm -rf festival-game
+```
+### OR type m.sh
 
 Follow us on 
 # 
