@@ -21,6 +21,7 @@ This is a fancy text design game made with python3
 
 >cd festival-game
 
+>pip install termcolor
 
 >pip install pyfiglet 
 
