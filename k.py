@@ -35,7 +35,7 @@ if i == 1:
 	
 	s = input( "head or tail enter your choice and press entr --:")
 	if s==kishan :
-	  print (termcolor.colored(("you win ▄︻̷┻═━一")))
+	  print (termcolor.colored(("you win ▄︻̷┻═━一",yellow)))
           print (kishan)
 	else:
 	  print ("failed!!")
