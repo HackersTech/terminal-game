@@ -34,10 +34,10 @@ if i == 1:
 	kishan=random.choice(coin)
 	
 	s = input( "head or tail enter your choice and press entr --:")
-	if s == kishan :
-	  print (termcolor.colored(("you win ▄︻̷̿┻̿═━一")))
+	if s==kishan :
+	  print (termcolor.colored(("you win ▄︻̷┻═━一")))
 	else:
 	  print ("failed!!")
-	  print (kishan) 
+	  print ()
 else:
-	print("good bye "	)
+	print("good bye ")
