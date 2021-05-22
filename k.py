@@ -7,8 +7,8 @@ from pyfiglet import Figlet
 font="digital"
 F=Figlet().renderText("b o s s")
 print(F)
-print("\033[1;32;40m  boss \033[0m 1;32;40m            \033[0;32;47m kishan     \033[0m 0;32;47m               \033[0;37;43m modi     \033[0m 0;37;43m")
-
+print("\033[1;32;40m  boss \033[0m 1;32;40m            \033[0;32;47m kishan     \033[0m 0;32;47m  bhai             \033[0;37;43m modi     \033[0m 0;37;43m K M")
+print ("subscribe our channel link in github repo pls support ")
 fig=Figlet(font)
 print(fig.renderText("b o s s"))
 print(termcolor.colored(("maker of tool is -- kishan"),"red"))
@@ -35,7 +35,8 @@ if i == 1:
 	
 	s = input( "head or tail enter your choice and press entr --:")
 	if s == kishan :
-	  print (termcolor.colored(("you win ▄︻̷┻═━一",kishan)))
+	  print (termcolor.colored(("you win ▄︻̷┻═━一")))
+          print (kishan)
 	else:
 	  print ("failed!!")
 	  print (kishan)
