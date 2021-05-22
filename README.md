@@ -2,7 +2,7 @@
 This is a fancy text design game made with python3 
 ## here are commands 
 ---
-for termux requirements
+## for termux requirements
 
 
  - pkg install git
@@ -12,8 +12,12 @@ for termux requirements
 
 
 ---
-- git clone https://github.com/Hckers-Tech/festival-game
 
+
+## For Linux directly give the following commands
+
+
+- **git clone https://github.com/Hckers-Tech/festival-game**
 
 >cd festival-game
 
@@ -25,3 +29,13 @@ for termux requirements
 
 
 Follow us on 
+# 
+|pls| follow |us|
+|--- |--- |--- |
+Need|support| pls|
+
+
+
+[Instagram](https://instagram.com/hackers__tech?utm_medium=copy_link)
+
+YouTube link -
