@@ -9,7 +9,6 @@ for termux requirements
  
  - pkg install python 
  
- - pkg install pyfiglet
 
 
 ---
