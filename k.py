@@ -29,12 +29,12 @@ print(termcolor.colored((
     " now if you  want to play game  \n press one and press enter \n if not want to play press 2 -:"),"yellow"))
 i = int(input())
 if i == 1:
-	print(termcolor.colored(("chlo head toss ka game khilata hu 😂","red")))
+	print("\033[1;32;40m chlo head toss ka game khilata hu 😂")
 	coin = ["head","tail"]
 	kishan=random.choices(coin)
 	
 	s = input( "head or tail enter your choice and press entr --:")
-	if s == kishan :
+	if s==kishan :
 	  print (termcolor.colored(("you win ▄︻̷┻═━一")))
           print (kishan)
 	else:
