@@ -10,4 +10,4 @@ This is a fancy text design game made with python3
 
 >pip install pyfiglet 
 
->python3 k.py
+>bash festival.sh
