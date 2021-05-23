@@ -25,7 +25,7 @@ This is a fancy text design game made with python3
 
 >pip install pyfiglet 
 
->bash festival.sh
+>bash game.sh
 
 ---
 
