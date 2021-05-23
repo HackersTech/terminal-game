@@ -46,5 +46,8 @@ Need|support| pls|
 
 YouTube link -
 https://youtube.com/channel/UCEX1r_jZouOOpKY7DiWIR6A
+---
 
-![image](images/github-Screenshot_2021-05-23-14-22-22-45.png)
+- Image screen shot
+
+![image](https://github.com/Hckers-Tech/terminal-game/blob/main/Screenshot_2021-05-23-14-22-22-45.png)
