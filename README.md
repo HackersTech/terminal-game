@@ -1,4 +1,4 @@
-# festival-game
+# terminal-game
 This is a fancy text design game made with python3 
 ## here are commands 
 ---
@@ -17,9 +17,9 @@ This is a fancy text design game made with python3
 ## For Linux directly give the following commands
 
 
-- **git clone https://github.com/Hckers-Tech/festival-game**
+- **git clone https://github.com/Hckers-Tech/terminal-game**
 
->cd festival-game
+>cd terminal-game
 
 >pip install termcolor
 
