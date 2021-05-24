@@ -32,7 +32,7 @@ This is a fancy text design game made with python3
 ### If you want to uninstall the game type
 - rm -rf festival-game
 ### OR type
-- >m.sh
+- >bash m.sh
 
 Follow us on 
 # 
