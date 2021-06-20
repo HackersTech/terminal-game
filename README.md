@@ -17,7 +17,7 @@ This is a fancy text design game made with python3
 ## For Linux directly give the following commands
 
 
-- **git clone https://github.com/Hckers-Tech/terminal-game**
+- **git clone https://github.com/HackersTech/terminal-game**
 
 >cd terminal-game
 
