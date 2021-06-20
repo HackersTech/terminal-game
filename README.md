@@ -19,13 +19,13 @@ This is a fancy text design game made with python3
 
 - **git clone https://github.com/HackersTech/terminal-game**
 
->cd terminal-game
+- cd terminal-game
 
->pip install termcolor
+- pip install termcolor
 
->pip install pyfiglet 
+- pip install pyfiglet 
 
->bash game.sh
+- bash game.sh
 
 ---
 
